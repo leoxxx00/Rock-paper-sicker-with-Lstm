@@ -1,0 +1,13 @@
+Player Choice,Computer Choice,Result
+rock,paper,Computer wins!
+paper,scissors,Computer wins!
+scissors,rock,Computer wins!
+scissors,scissors,It's a tie!
+rock,rock,It's a tie!
+scissors,scissors,It's a tie!
+scissors,scissors,It's a tie!
+paper,scissors,Computer wins!
+scissors,scissors,It's a tie!
+scissors,scissors,It's a tie!
+scissors,rock,Computer wins!
+scissors,rock,Computer wins!
